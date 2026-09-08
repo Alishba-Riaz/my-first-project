@@ -1,0 +1,16 @@
+# Sensitive files (Passwords, API keys)
+.env
+
+# Programming languages ke heavy folders
+node_modules/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
